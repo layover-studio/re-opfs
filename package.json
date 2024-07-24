@@ -1,0 +1,13 @@
+{
+  "name": "@layover-studio/re-opfs",
+  "version": "0.0.1",
+  "package-name": "re-opfs",
+  "description": "fs-like OPFS library",
+  "browser": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
