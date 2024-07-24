@@ -8,6 +8,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "bazamel",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layover-studio/re-opfs.git"
+  },
+  "keywords": [
+    "opfs"
+  ],
+  "bugs": {
+    "url": "https://github.com/layover-studio/re-opfs/issues"
+  },
+  "homepage": "https://github.com/layover-studio/re-opfs#readme"
 }
